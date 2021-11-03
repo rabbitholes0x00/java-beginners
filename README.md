@@ -32,6 +32,10 @@ $PATH v2 on `~/.zshrc` for Java
 export JAVA_HOME=$(dirname $(dirname $(update-alternatives --list javac)))
 ```
 
-
-
-
+## References
+* [Otodidak - Endy Muhardin](https://software.endy.muhardin.com/life/otodidak/)
+* [Pengetahuan wajib buat programmer - Endy Muhardin](https://software.endy.muhardin.com/life/pengetahuan-wajib-buat-programmer/)
+* [Road to Java SE - Endy Muhardin](https://software.endy.muhardin.com/java/road-to-java-se)
+* [Desain Skema Database - Endy Muhardin](https://software.endy.muhardin.com/java/desain-skema-database/)
+* [Java Programming Cheatsheet](https://introcs.cs.princeton.edu/java/11cheatsheet/)
+* [How to explain object-oriented programming concepts to a 6-year-old](https://www.freecodecamp.org/news/object-oriented-programming-concepts-21bb035f7260/)
